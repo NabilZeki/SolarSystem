@@ -9,10 +9,10 @@ public class Main {
         milkway.moon = 2;
         milkway.planets = 3;
 
-        sun solara = new sun();
-        Solana.Heat = "677777j";
-        Solana.redius = "327687428736";
-        Solana.remp = 1224566 C;
+        sun solana = new sun();
+        solana.Heat = "677777j";
+        solana.redius = "327687428736";
+        solana.remp = "1224566C";
     }
 }
 
